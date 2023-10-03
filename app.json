@@ -58,7 +58,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @MR_LINK_Z ❱ • ────➤\n┣ ▫️ @MRxSERIES\n┣ ▫️ @MalluMovie_Official\n╰─────── • ◆ • ───────➤",
+            "value": "`{file_name}`\n\n[ @iPapkornFiles ]  \n\n⚠️ 𝐍𝐨𝐭𝐞: This message will be Auto-deleted after 5 minutes to avoid copyright issues.   \n 𝙁𝙤𝙧𝙬𝙖𝙧𝙙 𝙩𝙤 𝙎𝙖𝙫𝙚𝙙 𝙈𝙚𝙨𝙨𝙖𝙜𝙚𝙨⚠️",
             "required": false
         },
         "DATABASE_URI": {

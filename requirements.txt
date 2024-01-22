@@ -4,7 +4,7 @@ PyLeaves==1.0.2
 dnspython==2.3.0
 
 #--Main----#
-git+https://github.com/MKN-BOTZ/pyrogram 
+pyrogram 
 aiofiles==22.1.0     
 tgcrypto==1.2.5
 requests==2.28.2

@@ -2,7 +2,7 @@
 #Telethroid==0.0.10
 PyLeaves
 dnspython
-
+pymongo
 #--Main----#
 pyrogram 
 aiofiles
@@ -23,6 +23,7 @@ yt-dlp==2023.2.17
 
 #---imdb---#
 git+https://github.com/cinemagoer/cinemagoer
+
 
 #---others----#
 opencv-python-headless

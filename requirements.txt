@@ -2,7 +2,6 @@
 #Telethroid==0.0.10
 PyLeaves
 dnspython
-pymongo
 #--Main----#
 pyrogram 
 aiofiles
@@ -14,7 +13,8 @@ bs4
 pymongo[srv]
 marshmallow
 umongo
-motor
+motor==3.1.1
+pymongo==4.3.3
 
 #---ytdl----#
 youtube-search-python
